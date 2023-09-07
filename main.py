@@ -1,5 +1,5 @@
 import grabber
 import downloader
-import tts
+import ocr
 
 downloader.download(grabber.get_memes(3))
